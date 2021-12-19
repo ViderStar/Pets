@@ -1,0 +1,13 @@
+Tommy,cat,Sam,7
+Gracy,cat,Denny,3
+Bracy,cat,Penny,2
+Calvin,fish,Nemo,1
+Calvin,fish,,1
+Calvin,fish,,1
+Calvin,fish,,1
+Calvin,fish,,1
+Sam,dog,Bobik,13
+Gam,dog,Bobik,10
+Tommy,dog,Gnomik,8
+Jam,dog,Vovik,9
+Calvin,dog,Ponik,4
